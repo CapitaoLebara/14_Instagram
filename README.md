@@ -11,7 +11,7 @@
 <img src="./readme/img1.PNG" alt="@Hawk_web" height="200">
 
 ## Layout Mobile
-<img src="./readme/img2.PNG" alt="@Hawk_web" height="200">
+<img src="./readme/img2.png" alt="@Hawk_web" height="200">
 # Tecnologias utilizadas
 - React.js
 - TailwindCss
